@@ -1,50 +1,62 @@
-<h1 align="center">Hi, I'm Galang </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Galang;Information+Systems+Student;Learning+Web+Dev+%26+UI%2FUX;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  Information Systems student learning Web Development & UI/UX design.<br/>
-  Open to collaboration and new experiences 
+  <a href="https://linkedin.com/in/sahid-galang-fatiqin-448158342">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.sgaaf.is-a.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<br/>
 
----
+I'm an Information Systems student who got curious about how websites actually work — now I build them, and I'm slowly falling for the design side too. Most days you'll find me somewhere between writing code and pushing pixels around in Figma.
 
-###  About me
--  Currently studying **Information Systems**
--  Learning **Web Development** (HTML, CSS, JavaScript — add the frameworks you use, e.g. React/Laravel)
--  Exploring **UI/UX Design** (Figma, wireframing, prototyping)
--  Open to collaboration and new experiences
--  Reach me at: **YOUR-EMAIL@example.com**
+Right now I'm sharpening my front-end skills and learning to think like a designer, not just a developer. I like clean interfaces, small satisfying details, and figuring out why something *feels* right.
 
-###  Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <!-- Add more badges as you learn more tools, e.g. React, Tailwind, Git -->
-</p>
+**Open to:** collaborations, freelance gigs, or just talking shop about web dev & UI/UX. Hit me up — my inbox is always open.
 
-###  Featured Projects
-<!-- Replace with your own repos — pick 2-3 that best show your skills -->
-- **[SiPustaka](https://sipustaka.xo.je)** — short description here (e.g. library management system built with X, features include Y). [🔗 Live demo](https://sipustaka.xo.je) · [Source code](https://github.com/galang-1/your-repo)
-- **[Project Name](https://github.com/galang-1/your-repo)** — one-line description of what it does and what you used to build it.
+<br/>
 
-### Portfolio
+### Tools I reach for
 <p align="left">
-  <a href="https://www.sgaaf.is-a.dev/"><img src="https://img.shields.io/badge/View%20My%20CV-4285F4?style=flat&logo=googledrive&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github" />
 </p>
 
-###  GitHub Stats
+<br/>
+
+### Something I built
+
+<table>
+  <tr>
+    <td width="100%">
+      <a href="https://sipustaka.xo.je">
+        <b> SiPustaka</b>
+      </a>
+      <br/>
+      A digital library management platform — <i>ganti dengan deskripsi singkat: dipakai untuk apa, dibangun pakai stack apa, fitur andalannya apa.</i>
+      <br/><br/>
+      <a href="https://sipustaka.xo.je">🔗 Live site</a> · <a href="https://github.com/galang-1/your-repo">💻 Source</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### A snapshot of my activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galang-1&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang-1&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=galang-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang-1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
+<br/>
 
-<p align="center"><i>Thanks for stopping by — feel free to reach out if you want to collaborate!</i></p>
+<p align="center">
+  <i>Thanks for stopping by — if any of this resonates, don't hesitate to reach out.</i>
+</p>
