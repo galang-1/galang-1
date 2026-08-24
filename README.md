@@ -1,78 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=GALANG&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=INFORMATION%20SYSTEMS%20%E2%80%A2%20WEB%20DEVELOPMENT%20%E2%80%A2%20UI%2FUX&descAlignY=75&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2D2B5F&height=180&section=header&text=Galang&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Information%20Systems%20Student%20%E2%80%94%20Web%20Dev%20%26%20UI%2FUX&descAlignY=62&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://linkedin.com/in/sahid-galang-fatiqin-448158342"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.sgaaf.is-a.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-2D2B5F?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
+I got into Information Systems expecting spreadsheets and diagrams — instead I found myself staying up late trying to get a `div` to sit exactly where I wanted it. That's how the web development rabbit hole started. Somewhere along the way, Figma pulled me in too, and now I care as much about how something looks and feels as I do about whether the code runs.
+
+These days I split my time between the two: building the front end, then going back to question every spacing and color choice like a designer would. It's a slower way to work, but the results feel more intentional.
+
+**Currently:** sharpening front-end fundamentals and learning to design before I code, not after.
+
+**Open to:** collaborations, freelance work, or a good conversation about web dev and UI/UX.
+
+<br/>
+
+<div align="center">
+
+### Tools I Work With
+
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### Something I Built
+
 <table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-I got into Information Systems expecting spreadsheets and process diagrams. What I found instead was the quiet, stubborn satisfaction of getting a layout to sit exactly right — and I never really left that feeling. Somewhere between semesters, design pulled me in too, and now I think about spacing and hierarchy almost as much as I think about logic and structure.
-
-I build the front end, then go back and question every decision a designer would question. It's a slower way to work. It's also the only way I've found that produces something I actually want to show people.
-
-</td>
-<td width="40%" valign="top">
-
-**Contact**
-<br/>
-[LinkedIn](https://linkedin.com/in/sahid-galang-fatiqin-448158342) · [Portfolio](https://www.sgaaf.is-a.dev/) · [Email](mailto:YOUR-EMAIL@example.com)
-
-**Status**
-<br/>
-Open to collaboration, freelance work, and honest feedback.
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <h4>SiPustaka</h4>
+      <p><i>Ganti baris ini dengan cerita singkat: masalah apa yang diselesaikan, dibangun pakai stack apa, dan satu fitur yang paling kamu banggakan.</i></p>
+      <a href="https://sipustaka.xo.je">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/galang-1/your-repo">Source code</a>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<div align="center">
-
-`HTML`&nbsp;&nbsp;·&nbsp;&nbsp;`CSS`&nbsp;&nbsp;·&nbsp;&nbsp;`JavaScript`&nbsp;&nbsp;·&nbsp;&nbsp;`Figma`&nbsp;&nbsp;·&nbsp;&nbsp;`Git`
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>________________________________________</sub>
-</div>
-
-<br/>
-
-### Currently
-
-- [x] ~~Learned the fundamentals of HTML, CSS & JavaScript~~ — built and shipped SiPustaka
-- [ ] Deepening front-end skills with a proper framework
-- [ ] Turning Figma habits into a repeatable design process, not just guesswork
-
-<br/>
-
-### Selected Work
-
-**SiPustaka** — *replace with one honest sentence: what problem it solves, who it's for, and the one feature you're proudest of.*
-<br/>
-[Live](https://sipustaka.xo.je) &nbsp;/&nbsp; [Code](https://github.com/galang-1/your-repo) &nbsp;/&nbsp; `stack: replace this`
-
-<br/>
-
-<div align="center">
-<sub>________________________________________</sub>
-</div>
+---
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=galang-1&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&hide_title=true" height="150"/>
+### GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=galang-1&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang-1&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" height="165"/>
+
+</div>
 
 <br/>
 
-<sub>Reach out if any of this sounds like something worth building together.</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D2B5F,100:6C63FF&height=100&section=footer" width="100%"/>
