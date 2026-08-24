@@ -42,7 +42,7 @@ Right now I'm sharpening my front-end skills and learning to think like a design
       <br/>
       A digital library management platform — <i>ganti dengan deskripsi singkat: dipakai untuk apa, dibangun pakai stack apa, fitur andalannya apa.</i>
       <br/><br/>
-      <a href="https://sipustaka.xo.je">🔗 Live site</a> · <a href="https://github.com/galang-1/your-repo">💻 Source</a>
+      <a href="https://sipustaka.xo.je">🔗 Live site</a> · <a href="https://github.com/galang-1/your-repo"> Source</a>
     </td>
   </tr>
 </table>
