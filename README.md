@@ -1,62 +1,68 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Galang;Information+Systems+Student;Learning+Web+Dev+%26+UI%2FUX;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/sahid-galang-fatiqin-448158342">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.sgaaf.is-a.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2D2B5F&height=180&section=header&text=Galang&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Information%20Systems%20Student%20%E2%80%94%20Web%20Dev%20%26%20UI%2FUX&descAlignY=62&descSize=18" width="100%"/>
 
 <br/>
 
-I'm an Information Systems student who got curious about how websites actually work — now I build them, and I'm slowly falling for the design side too. Most days you'll find me somewhere between writing code and pushing pixels around in Figma.
+<a href="https://linkedin.com/in/sahid-galang-fatiqin-448158342"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.sgaaf.is-a.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-2D2B5F?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 
-Right now I'm sharpening my front-end skills and learning to think like a designer, not just a developer. I like clean interfaces, small satisfying details, and figuring out why something *feels* right.
-
-**Open to:** collaborations, freelance gigs, or just talking shop about web dev & UI/UX. Hit me up — my inbox is always open.
-
-<br/>
-
-### Tools I reach for
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github" />
-</p>
+</div>
 
 <br/>
 
-### Something I built
+I got into Information Systems expecting spreadsheets and diagrams — instead I found myself staying up late trying to get a `div` to sit exactly where I wanted it. That's how the web development rabbit hole started. Somewhere along the way, Figma pulled me in too, and now I care as much about how something looks and feels as I do about whether the code runs.
 
-<table>
+These days I split my time between the two: building the front end, then going back to question every spacing and color choice like a designer would. It's a slower way to work, but the results feel more intentional.
+
+**Currently:** sharpening front-end fundamentals and learning to design before I code, not after.
+
+**Open to:** collaborations, freelance work, or a good conversation about web dev and UI/UX.
+
+<br/>
+
+<div align="center">
+
+### Tools I Work With
+
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### Something I Built
+
+<table width="100%">
   <tr>
-    <td width="100%">
-      <a href="https://sipustaka.xo.je">
-        <b> SiPustaka</b>
-      </a>
-      <br/>
-      A digital library management platform — <i>ganti dengan deskripsi singkat: dipakai untuk apa, dibangun pakai stack apa, fitur andalannya apa.</i>
-      <br/><br/>
-      <a href="https://sipustaka.xo.je">🔗 Live site</a> · <a href="https://github.com/galang-1/your-repo"> Source</a>
+    <td>
+      <h4>SiPustaka</h4>
+      <p><i>Ganti baris ini dengan cerita singkat: masalah apa yang diselesaikan, dibangun pakai stack apa, dan satu fitur yang paling kamu banggakan.</i></p>
+      <a href="https://sipustaka.xo.je">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/galang-1/your-repo">Source code</a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### A snapshot of my activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galang-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang-1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+---
 
 <br/>
 
-<p align="center">
-  <i>Thanks for stopping by — if any of this resonates, don't hesitate to reach out.</i>
-</p>
+<div align="center">
+
+### GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=galang-1&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang-1&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" height="165"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D2B5F,100:6C63FF&height=100&section=footer" width="100%"/>
