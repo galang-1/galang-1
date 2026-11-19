@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Galang — Information Systems × Web Dev × UI/UX" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0722,35:4c1d95,65:db2777,100:f97316&height=300&section=header&text=Galang&fontSize=96&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Information%20Systems%20%C3%97%20Web%20Dev%20%C3%97%20UI%2FUX&descSize=20&descAlignY=62" alt="Galang — Information Systems × Web Dev × UI/UX" width="100%" />
 
 <a href="https://github.com/galang-1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F97316&center=true&vCenter=true&width=640&height=40&lines=Information+Systems+student.;I+build+the+front+end+first.;Then+I+question+every+decision.;Obsessed+with+spacing+%26+hierarchy." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=700&height=45&lines=Information+Systems+student.;I+build+the+front+end+first.;Then+I+question+every+decision.;Obsessed+with+spacing+%26+hierarchy.;Came+for+spreadsheets.+Stayed+for+the+spacing." alt="Typing animation" />
 </a>
 
 <br/>
@@ -14,9 +14,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=galang-1&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:f97316,100:7c3aed&height=3" alt="" width="100%" />
+
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<br/>
 
 <table>
 <tr>
@@ -43,7 +45,7 @@ Somewhere between semesters, design pulled me in too. Now I think about **spacin
 </tr>
 </table>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<br/>
 
 <h2 align="center">🎨 What I obsess over</h2>
 
@@ -68,6 +70,8 @@ Somewhere between semesters, design pulled me in too. Now I think about **spacin
 </tr>
 </table>
 
+<br/>
+
 <h2 align="center">⚡ My loop</h2>
 
 > I build the front end, then go back and question every decision a designer would question.
@@ -86,6 +90,8 @@ flowchart LR
     class B,D orange
 ```
 
+<br/>
+
 <h2 align="center">🧬 <code>galang.config.js</code></h2>
 
 ```js
@@ -100,6 +106,8 @@ const galang = {
 };
 ```
 
+<br/>
+
 <h2 align="center">🛠️ Stack</h2>
 
 <div align="center">
@@ -108,16 +116,20 @@ const galang = {
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<br/>
 
 <h2 align="center">📈 Activity</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=galang-1&bg_color=1a1033&color=e9d5ff&line=f97316&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=12" alt="Contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=galang-1&bg_color=1a1033&color=e9d5ff&line=f97316&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=galang-1&show_icons=true&hide_border=true&bg_color=1a1033&title_color=f97316&text_color=e9d5ff&icon_color=c084fc&border_radius=12&count_private=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galang-1&layout=compact&hide_border=true&bg_color=1a1033&title_color=f97316&text_color=e9d5ff&border_radius=12" alt="Top languages" />
+
+<br/><br/>
+
+<a href="https://github.com/galang-1?tab=repositories"><img src="https://img.shields.io/badge/Browse%20my%20repositories-%E2%86%92-f97316?style=for-the-badge&labelColor=1a1033" alt="Browse my repositories" /></a>
 
 </div>
 
@@ -137,7 +149,13 @@ Uncomment this block and replace REPO_NAME with your best repositories.
 </div>
 -->
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:f97316,100:7c3aed&height=3" alt="" width="100%" />
+
+</div>
 
 <h2 align="center">📬 Let's talk</h2>
 
@@ -153,8 +171,13 @@ Open to collaboration, freelance work, and honest feedback —<br/>especially th
 
 <br/><br/>
 
-<sub>Came for the spreadsheets. Stayed for the spacing.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:7c3aed,100:1a1033&height=140&section=footer&text=Let%27s%20build%20something&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=fadeIn" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:7c3aed,100:0d0722&height=160&section=footer&text=Let%27s%20build%20something&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=fadeIn" alt="" width="100%" />
 
 </div>
+
+<!--
+Optional: custom animated sunset banner.
+Only works after you upload assets/hero.svg to this repo (galang-1/galang-1).
+
+<img src="https://raw.githubusercontent.com/galang-1/galang-1/main/assets/hero.svg" alt="Galang" width="100%" />
+-->
