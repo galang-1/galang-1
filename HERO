@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Galang — Information Systems × Web Dev × UI/UX" xmlns:c2pa="http://c2pa.org/manifest">
+  <title>Galang — Information Systems × Web Dev × UI/UX</title>
+
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d0722"/>
+      <stop offset=".38" stop-color="#3b1672"/>
+      <stop offset=".66" stop-color="#a23a8f"/>
+      <stop offset=".84" stop-color="#f0603f"/>
+      <stop offset="1" stop-color="#fbaa3c"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffd58a" stop-opacity=".95"/>
+      <stop offset=".35" stop-color="#ff8a3d" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#ff5e62" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="sunCore" cx="50%" cy="40%" r="60%">
+      <stop offset="0" stop-color="#fff3c4"/>
+      <stop offset="1" stop-color="#ffb347"/>
+    </radialGradient>
+
+    <linearGradient id="title" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffe3c7"/>
+    </linearGradient>
+
+    <linearGradient id="far" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a1f80"/>
+      <stop offset="1" stop-color="#b0488f"/>
+    </linearGradient>
+
+    <linearGradient id="mid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a1259"/>
+      <stop offset="1" stop-color="#6b2a7e"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-10%" y="-30%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="7" flood-color="#12062e" flood-opacity=".55"/>
+    </filter>
+
+    <filter id="soft" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+
+    <g id="pine">
+      <polygon points="0,-34 9,-18 -9,-18"/>
+      <polygon points="0,-24 12,-6 -12,-6"/>
+      <polygon points="0,-12 15,8 -15,8"/>
+      <rect x="-2" y="8" width="4" height="10"/>
+    </g>
+  </defs>
+
+  <style>
+    .tw{animation:tw 3.4s ease-in-out infinite}
+    @keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
+
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 6s ease-in-out infinite}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.1);opacity:1}}
+
+    .sun{animation:sun 9s ease-in-out infinite}
+    @keyframes sun{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+
+    .fly{animation:fly 40s linear infinite}
+    @keyframes fly{from{transform:translateX(-140px)}to{transform:translateX(1340px)}}
+
+    .drift{animation:drift 80s linear infinite}
+    @keyframes drift{from{transform:translateX(-320px)}to{transform:translateX(1520px)}}
+
+    .rise{animation:rise 1.4s cubic-bezier(.2,.7,.2,1) both}
+    @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+
+    .rule{transform-box:fill-box;transform-origin:center;animation:grow 1.4s .5s cubic-bezier(.2,.7,.2,1) both}
+    @keyframes grow{from{transform:scaleX(0);opacity:0}to{transform:scaleX(1);opacity:1}}
+
+    .fade{animation:fade 1.6s .7s ease-out both}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+
+    .blink{animation:blink 1.8s ease-in-out infinite}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <!-- sky -->
+  <rect width="1200" height="420" fill="url(#sky)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle class="tw" cx="70"   cy="84"  r="1.4" style="animation-delay:0s"/>
+    <circle class="tw" cx="150"  cy="95"  r="1"   style="animation-delay:.6s"/>
+    <circle class="tw" cx="240"  cy="28"  r="1.6" style="animation-delay:1.2s"/>
+    <circle class="tw" cx="330"  cy="70"  r="1"   style="animation-delay:1.8s"/>
+    <circle class="tw" cx="420"  cy="40"  r="1.2" style="animation-delay:.3s"/>
+    <circle class="tw" cx="505"  cy="110" r="1"   style="animation-delay:2.2s"/>
+    <circle class="tw" cx="590"  cy="24"  r="1.6" style="animation-delay:.9s"/>
+    <circle class="tw" cx="690"  cy="60"  r="1.2" style="animation-delay:1.5s"/>
+    <circle class="tw" cx="780"  cy="30"  r="1"   style="animation-delay:2.6s"/>
+    <circle class="tw" cx="860"  cy="92"  r="1.6" style="animation-delay:.4s"/>
+    <circle class="tw" cx="940"  cy="44"  r="1.2" style="animation-delay:1.1s"/>
+    <circle class="tw" cx="1020" cy="20"  r="1"   style="animation-delay:1.9s"/>
+    <circle class="tw" cx="1100" cy="75"  r="1.6" style="animation-delay:.7s"/>
+    <circle class="tw" cx="1165" cy="88"  r="1.2" style="animation-delay:2.4s"/>
+    <circle class="tw" cx="35"   cy="120" r="1"   style="animation-delay:1.4s"/>
+    <circle class="tw" cx="1180" cy="125" r="1"   style="animation-delay:.2s"/>
+    <circle class="tw" cx="300"  cy="140" r="1"   style="animation-delay:2.8s"/>
+    <circle class="tw" cx="900"  cy="140" r="1"   style="animation-delay:.5s"/>
+  </g>
+
+  <!-- sun -->
+  <g class="sun">
+    <circle class="pulse" cx="600" cy="330" r="175" fill="url(#glow)"/>
+    <circle cx="600" cy="330" r="60" fill="url(#sunCore)"/>
+  </g>
+
+  <!-- soft cloud streaks -->
+  <g filter="url(#soft)">
+    <ellipse class="drift" cx="0" cy="118" rx="190" ry="8"  fill="#c084fc" opacity=".16" style="animation-duration:90s;animation-delay:-30s"/>
+    <ellipse class="drift" cx="0" cy="256" rx="170" ry="7"  fill="#ffb199" opacity=".26" style="animation-duration:70s;animation-delay:-50s"/>
+    <ellipse class="drift" cx="0" cy="292" rx="230" ry="8"  fill="#ffc9a8" opacity=".2"  style="animation-duration:100s;animation-delay:-12s"/>
+  </g>
+
+  <!-- birds -->
+  <g fill="none" stroke="#1a0b3d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(0,262)">
+      <g class="fly" style="animation-duration:38s;animation-delay:-12s">
+        <path d="M0 0 q7 -7 14 0 q7 -7 14 0">
+          <animate attributeName="d" dur=".9s" repeatCount="indefinite"
+            values="M0 0 q7 -7 14 0 q7 -7 14 0;M0 0 q7 5 14 0 q7 5 14 0;M0 0 q7 -7 14 0 q7 -7 14 0"/>
+        </path>
+      </g>
+    </g>
+    <g transform="translate(0,282) scale(.8)">
+      <g class="fly" style="animation-duration:46s;animation-delay:-30s">
+        <path d="M0 0 q7 -7 14 0 q7 -7 14 0">
+          <animate attributeName="d" dur="1.1s" repeatCount="indefinite"
+            values="M0 0 q7 -7 14 0 q7 -7 14 0;M0 0 q7 5 14 0 q7 5 14 0;M0 0 q7 -7 14 0 q7 -7 14 0"/>
+        </path>
+      </g>
+    </g>
+    <g transform="translate(0,248) scale(.65)">
+      <g class="fly" style="animation-duration:52s;animation-delay:-5s">
+        <path d="M0 0 q7 -7 14 0 q7 -7 14 0">
+          <animate attributeName="d" dur="1s" repeatCount="indefinite"
+            values="M0 0 q7 -7 14 0 q7 -7 14 0;M0 0 q7 5 14 0 q7 5 14 0;M0 0 q7 -7 14 0 q7 -7 14 0"/>
+        </path>
+      </g>
+    </g>
+  </g>
+
+  <!-- mountains -->
+  <path fill="url(#far)" d="M0 322 L80 300 L160 318 L250 290 L340 322 L430 300 L520 330 L600 340 L680 328 L770 296 L860 325 L950 292 L1040 318 L1120 298 L1200 316 L1200 420 L0 420 Z"/>
+  <path fill="url(#mid)" d="M0 352 L100 326 L200 350 L310 322 L420 352 L520 338 L600 356 L690 340 L800 322 L910 350 L1020 328 L1110 348 L1200 334 L1200 420 L0 420 Z"/>
+
+  <!-- pines -->
+  <g fill="#160a35">
+    <use xlink:href="#pine" transform="translate(30,388) scale(2)"/>
+    <use xlink:href="#pine" transform="translate(78,384) scale(1.5)"/>
+    <use xlink:href="#pine" transform="translate(126,392) scale(2.3)"/>
+    <use xlink:href="#pine" transform="translate(180,386) scale(1.2)"/>
+    <use xlink:href="#pine" transform="translate(232,390) scale(1.6)"/>
+    <use xlink:href="#pine" transform="translate(1170,388) scale(2)"/>
+    <use xlink:href="#pine" transform="translate(1122,384) scale(1.5)"/>
+    <use xlink:href="#pine" transform="translate(1074,392) scale(2.3)"/>
+    <use xlink:href="#pine" transform="translate(1020,386) scale(1.2)"/>
+    <use xlink:href="#pine" transform="translate(968,390) scale(1.6)"/>
+  </g>
+
+  <!-- foreground hills -->
+  <path fill="#0d0722" d="M0 384 Q160 352 340 378 T680 374 T1010 380 T1200 362 L1200 420 L0 420 Z"/>
+
+  <!-- title -->
+  <g class="rise" filter="url(#shadow)">
+    <text class="sans" x="600" y="170" text-anchor="middle" font-size="100" font-weight="800" letter-spacing="-2" fill="url(#title)">Galang</text>
+  </g>
+  <rect class="rule" x="540" y="194" width="120" height="3" rx="1.5" fill="#fdba74"/>
+  <text class="sans fade" x="600" y="230" text-anchor="middle" font-size="20" font-weight="600" letter-spacing="6" fill="#fff1e2" filter="url(#shadow)">INFORMATION SYSTEMS &#160;×&#160; WEB DEV &#160;×&#160; UI/UX</text>
+
+  <!-- corner details -->
+  <text class="mono fade" x="36" y="44" font-size="13" letter-spacing="1" fill="#ffffff" opacity=".7">~/galang-1</text>
+  <g class="fade">
+    <circle class="blink" cx="1000" cy="40" r="4.5" fill="#4ade80"/>
+    <text class="mono" x="1014" y="45" font-size="13" letter-spacing="2" fill="#ffffff" opacity=".85">OPEN TO COLLAB</text>
+  </g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiNDIzODMxOS01MWI4LTRjMTAtYjY4Yy00M2JjOTQ1ZWVlZDMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDhMmzTrwO70s0xBjica7VIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplMzAyM2E0OC04NjZhLTQzZDktYTkzNi1mZWJmZTk3NTk5MzRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoC6BUBIB3XqZZXXpgUV+ybgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggw/bzwi7DZe95FOxi3WXnoIsQ8CaB7NWmJJjIylw2QN+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaC4yQnn2ww855FmUjuTHLigAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIMM+b9QXvqiplBOvPMY5EwTivnFbtkS6fxXOA2N2pkHiZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSSRZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmI0MjM4MzE5LTUxYjgtNGMxMC1iNjhjLTQzYmM5NDVlZWVkMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjk3ZmRkYWEyLTljYTYtNGNhYS1iMzY0LTFjZDk2YTdiMDNlYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDD9vPCLsNl73kU7GLdZeegixDwJoHs1aYkmMjKXDZA36JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggOGSAC5snbS15zbRqwY35qDeSeOvxO2bxR3+bCLSQyvWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggvlu+lJZW4lSSmd/Bdj/XOLIskILWAyO6BjI8DP+Vheh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCLRRRcHhmwli9xGo6ukTRh3X0tG2vRlv+WqiIoZjf7Sw1qvxPunI3JfhSmCUiiM1HbSlEbUX7UYVZDYG2FiaLg=</c2pa:manifest></metadata></svg>
